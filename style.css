@@ -17,6 +17,10 @@ body {
   padding: 0 16px;
 }
 
+.container ul li {
+  list-style-type: none;
+}
+
 .page-header {
   margin: 0 0 160px;
   padding: 32px 0 32px;
@@ -47,7 +51,7 @@ body {
 }
 
 .hero-image {
-  margin-bottom: 620px;
+  margin-bottom: 630px;
 }
 
 .hero-image .container {
@@ -71,7 +75,7 @@ body {
 
 .intro {
   margin: 0 0 120px;
-  margin-bottom: 620px;
+  margin-bottom: 630px;
 }
 
 .subheading {
@@ -194,3 +198,4 @@ body {
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
 }
+
